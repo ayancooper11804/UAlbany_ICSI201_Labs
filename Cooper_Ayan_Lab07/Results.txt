@@ -1,0 +1,18 @@
+
+Mean = 0.000
+Standard Deviation = 0.000
+
+Mean = 77.444
+Standard Deviation = 0.000
+
+Mean = 77.444
+Standard Deviation = 0.000
+
+Mean = 77.444
+Standard Deviation = 10.021
+
+Mean = 77.444
+Standard Deviation = 10.021
+mean = 77.444, standard Deviation = 10.021
+mean = 77.444, standard deviation = 10.021
+mean = 77.444, standard deviation = 10.021
